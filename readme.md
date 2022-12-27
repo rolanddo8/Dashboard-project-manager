@@ -5,4 +5,4 @@ React
 Boostrap 5
 MongooseDB
 
-!![alt text](./project-map.PNG)
+![alt text](./project-map.PNG)
