@@ -6,4 +6,11 @@ Boostrap 5
 MongooseDB
 
 ![alt text](./project-map.PNG)
-![Screenshot](screenshot.png)
+
+HOME PAGE:
+
+![alt text](./home-page.PNG)
+
+PROJECT PAGE:
+
+![alt text](./project-view.PNG)
